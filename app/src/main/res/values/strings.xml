@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Assgn</string>
+    <string name="upload">Upload</string>
+    <string name="select">Select</string>
+    <string name="view_uploaded_images">View uploaded images</string>
+    <string name="image">image</string>
+</resources>
